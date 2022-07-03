@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\bin\Debug\Parking_system.exe.config
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\bin\Debug\Parking_system.exe
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\bin\Debug\Parking_system.pdb
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\obj\Debug\Parking_system.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\obj\Debug\Parking_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\obj\Debug\Parking_system.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\obj\Debug\Parking_system.exe
+C:\Users\hp\Documents\HMSProject\Parking_system\Parking_system\obj\Debug\Parking_system.pdb
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\bin\Debug\Parking_system.exe.config
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\bin\Debug\Parking_system.exe
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\bin\Debug\Parking_system.pdb
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\obj\Debug\Parking_system.csproj.AssemblyReference.cache
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\obj\Debug\Parking_system.csproj.SuggestedBindingRedirects.cache
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\obj\Debug\Parking_system.csproj.CoreCompileInputs.cache
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\obj\Debug\Parking_system.exe
+C:\Users\halat\OneDrive\Desktop\bootcamp\Parking_system\Parking_system\Parking_system\obj\Debug\Parking_system.pdb
